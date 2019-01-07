@@ -27,3 +27,5 @@
  var cantidadLetrasDelNombre = nombre.length;
  var nombreCompleto = nombre + ' ' + apellido;
  //Interpolacion de texto ``
+
+ console.log('Agregando para comparar el working directory con el index -> git diff [filename]' )
