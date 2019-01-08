@@ -1,7 +1,7 @@
 /**
  * @Date:   07-01-2019
  * @Project: Fundamentos de JS
- * @Last modified time: 07-01-2019
+ * @Last modified time: 08-01-2019
  */
 
  //console.log('Hola mundo JS'); //interactuar con el usuario.
@@ -27,3 +27,7 @@
  var cantidadLetrasDelNombre = nombre.length;
  var nombreCompleto = nombre + ' ' + apellido;
  //Interpolacion de texto ``
+
+ console.log('Agregando para comparar el working directory con el index -> git diff [filename]' )
+
+ console.log('Agregando otra linea de codigo .......')

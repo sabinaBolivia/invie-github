@@ -1,0 +1,17 @@
+c70fd72  (HEAD -> master) Modificando por segunda vez el archivo.js
+Mon Jan 7 18:21:15 2019 -0400 sabyCA <sabinachambiapaza@gmail.com>
+
+64ee2a6  (tag: 0.7) Agregando a index.html el archivo.js
+Mon Jan 7 16:33:29 2019 -0400 sabyCA <sabinachambiapaza@gmail.com>
+
+d723fc5  (tag: 0.6) agregando etiqueta h1
+Mon Jan 7 16:14:38 2019 -0400 sabyCA <sabinachambiapaza@gmail.com>
+
+c6faa14  (tag: 0.5) agregando nuestro hero
+Wed Jan 2 22:29:53 2019 -0400 sabyCA <sabinachambiapaza@gmail.com>
+
+6ed5ace  (tag: 0.3) Subiendo imagenes
+Wed Jan 2 22:26:07 2019 -0400 sabyCA <sabinachambiapaza@gmail.com>
+
+a23e0cd  (tag: 0.1) Subiendo cambios Inicializar landing
+Wed Jan 2 21:52:32 2019 -0400 sabyCA <sabinachambiapaza@gmail.com>
