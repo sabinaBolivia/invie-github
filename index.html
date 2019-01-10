@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html>
   <head>
     <meta charset="utf-8">
     <title>Invie</title>
@@ -12,12 +12,21 @@
          max-width:100%;
          vertical-align:top;
        }
+       img#responsive{
+         display:none;
+       }
+       @media screen and (max-width:768px){
+           img#responsive{
+              display: block;
+           }
+           img{display:none;}
+       }
     </style>
-    <script type="text/javascript" src="archivo.js">
-
-    </script>
+    <!--<script type="text/javascript" src="archivo.js">
+    </script>-->
   </head>
   <body>
+    <img src="invie-responsive.png" alt="" id="responsive">
      <img src="imagenes/header.jpg" alt="">
      <img src="imagenes/hero.jpg" alt="">
      <img src="imagenes/acustica.jpg" alt="">
